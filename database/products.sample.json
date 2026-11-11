@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Áo thun nam",
+    "price": 150000,
+    "soluong": 20,
+    "image": "base64:THAY_BANG_CHUOI_BASE64_CUA_ANH_THUC_TE"
+  },
+  {
+    "name": "Balo thời trang",
+    "price": 320000,
+    "soluong": 12,
+    "image": "base64:THAY_BANG_CHUOI_BASE64_CUA_ANH_THUC_TE"
+  }
+]

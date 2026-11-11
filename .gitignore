@@ -1,0 +1,13 @@
+.dart_tool/
+.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter_tool/
+.idea/
+.vscode/
+android/.gradle/
+android/local.properties
+*.iml
+.DS_Store
